@@ -84,6 +84,7 @@
 - [Set Up Accelerators](/get-started/set-up-accelerators.md): This section guides you to set up and prepare your server to run WSO2 Open Banking Accelerator.
 - [Tryout Flow](/get-started/try-out-flow-with-is.md): This document provides step by step instructions to invoke the Accounts Information Service API.
 - [Tryout Flow](/get-started/try-out-flow.md): This document provides step by step instructions to invoke the Accounts Information Service API.
+- [WSO2 Open Banking Accelerator](/get-started/wso2-open-banking-accelerator.md): What is an open banking accelerator?
 - [Configuring Active-Active Identity Server Deployment with Accelerator](/install-and-setup/active-active-identity-server-deployment.md): In the standard distributed deployment of the Identity Server, two instances operate behind a load balancer to ensure high availability and load distribution.
 - [Configuring API Resources, Users and Roles](/install-and-setup/configure-resources-users-and-roles.md): Now you have started the servers, let’s create the API resources, users and define their permissions and roles. This section provides a guide on creating API resources, users and roles for each use case.
 - [Configuring the Accelerator](/install-and-setup/configuring-accelerator.md): WSO2 Open Banking Accelerator configurations are applied through the deployment.toml file of the Identity Server and
@@ -180,4 +181,4 @@
 - [Pre-Initiated Consent Flow](/tryout-flows/accelerator-with-is/try-out-flow-pre_initiated_consent.md): This document provides step by step instructions to invoke the Accounts Information Service API.
 - [Scope Based Consent Flow](/tryout-flows/accelerator-with-is/try-out-flow-scope-based-consent.md): This document provides step by step instructions to invoke the Accounts Information Service API without use of pre consent initiation. Following diagram illustrates the sample Open Banking flow which is going to try from this documentation section.
 - [Tryout WSO2 Open Banking Accelerator](/tryout-flows/introduction.md): This section will walk you through the multiple try out flows supported by the WSO2 Open Banking Accelerator 4.0.0.
-- [Welcome to the WSO2 Open Banking Accelerator Documentation!](/index.md): WSO2 Open Banking Accelerator is a collection of technologies that increases the speed and reduces the complexity
+- [Welcome to the WSO2 Open Banking Accelerator Documentation!](/index.md): Welcome to the WSO2 Open Banking Accelerator Documentation!
